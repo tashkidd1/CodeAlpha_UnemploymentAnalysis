@@ -15,7 +15,6 @@ This project performs an end-to-end exploratory data analysis (EDA) on unemploym
 
 - [Project Overview](#-project-overview)
 - [Dataset](#-dataset)
-- [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Key Analysis](#-key-analysis)
 - [Visualizations](#-visualizations)
@@ -131,5 +130,3 @@ This project was completed as part of the **CodeAlpha Data Science Internship**.
 GitHub: [@tashkidd1](https://github.com/tashkidd1)
 
 ---
-
-*Completed as part of the CodeAlpha Data Science Internship Program.*
