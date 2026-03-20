@@ -126,7 +126,7 @@ This project was completed as part of the **CodeAlpha Data Science Internship**.
 
 ## 📬 Contact
 
- 
+**Tashinga Ncube** 
 GitHub: [@tashkidd1](https://github.com/tashkidd1)
 
 ---
